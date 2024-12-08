@@ -36,3 +36,6 @@
 Run the main script to start the application:
 ```bash
 python main.py
+
+
+https://x.com/schainfun
