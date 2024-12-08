@@ -1,5 +1,5 @@
 ## Features
-- Create a new Ethereum wallet
+- Create a new sChain wallet
 - Check wallet balance
 - Transfer tokens to another address
 - Request airdrops (public airdrop)
