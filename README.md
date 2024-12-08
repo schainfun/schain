@@ -15,13 +15,18 @@
     git clone https://github.com/schainfun/schain.git
     cd schain
     ```
-
-2. Install the required Python packages:
+2. Virtual Environment (Optional):
+    ```bash
+    python3 -m venv venv
+    source venv/bin/activate
+    pip install -r requirements.txt
+    ```
+3. Install the required Python packages:
     ```bash
     pip install -r requirements.txt
     ```
 
-3. Set up the environment variables:
+4. Set up the environment variables:
     Create a `.env` file in the project directory and add your RPC URL:
     ```env
     RPC_URL=https://mainnet-beta.schain.fun
