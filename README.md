@@ -13,8 +13,8 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/username/schain-wallet.git
-    cd schain-wallet
+    git clone https://github.com/schainfun/schain.git
+    cd schain
     ```
 
 2. Install the required Python packages:
