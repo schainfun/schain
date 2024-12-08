@@ -1,0 +1,6 @@
+requests
+eth-account
+web3
+colorama
+flask
+python-dotenv
