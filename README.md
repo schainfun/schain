@@ -7,7 +7,6 @@
 ## Requirements
 - Python 3.8 or higher
 - `pip` (Python package manager)
-- A running RPC server (e.g., localhost or a public RPC endpoint)
 
 ## Installation
 
